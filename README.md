@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morelvictor
 - 👀 I’m interested in eating !
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning ocaml and math
 - 💞️ I’m looking to collaborate on a table
 - 📫 How to reach me is a good question :)
 
