@@ -6,7 +6,9 @@ I have strong proficiency in programming languages such as OCaml, C/C++, and Jav
 
 ## Skills
 - **Programming Languages**: OCaml, C, C++, Java
-- **Education**: Dual Bachelor's degree in Mathematics and Computer Science
+- **Education**:
+  - Dual Bachelor's degree in Mathematics and Computer Science
+  - Master's degree in Quantum and Distributed Computer Science
 - **Areas of Expertise**: Quantum Computing, High-Performance Computing
 
 ## Interests
